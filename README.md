@@ -26,7 +26,7 @@ A **conversational AI healthcare assistant** that answers medical questions usin
 ## 🔗 Source Code
 
 - **GitHub Repository**: [GitHub Link](https://github.com/lokii2003/Healthcare_AI_Assistant.git)
-- **Google Derive Source Code**: Available upon request
+- **Google Derive Source Code**: [Googlr drive link](https://drive.google.com/file/d/1jsDbG6REcW-bRE-MXFhTzj0M_9hh1MmS/view?usp=sharing)
 
 ---
 
