@@ -1,0 +1,19 @@
+Topic: Myasthenia Gravis
+Question: What is (are) Myasthenia Gravis ?
+Answer: Myasthenia gravis is a chronic autoimmune neuromuscular disease characterized by varying degrees of weakness of the skeletal (voluntary) muscles of the body. Symptoms vary in type and intensity. The hallmark of myasthenia gravis is muscle weakness that increases during periods of activity and improves after periods of rest. Muscles that control eye and eyelid movements, facial expression, chewing, talking, and swallowing are often, but not always, involved. The muscles that control breathing and neck and limb movements may also be affected. Myasthenia gravis is caused by a defect in the transmission of nerve impulses to muscles. Normally when impulses travel down the nerve, the nerve endings release a neurotransmitter substance called acetylcholine. In myasthenia gravis, antibodies produced by the body's own immune system block, alter, or destroy the receptors for acetylcholine. The first noticeable symptoms of myasthenia gravis may be weakness of the eye muscles, difficulty in swallowing, or slurred speech. Myasthenia gravis is an autoimmune disease because the immune system--which normally protects the body from foreign organisms--mistakenly attacks itself.. It is not directly inherited nor is it contagious.
+Source: 0000206.xml
+
+Topic: Myasthenia Gravis
+Question: What are the treatments for Myasthenia Gravis ?
+Answer: Myasthenia gravis can be controlled. Some medications improve neuromuscular transmission and increase muscle strength, and some suppress the production of abnormal antibodies. These medications must be used with careful medical follow up because they may cause major side effects. Thymectomy, the surgical removal of the thymus gland (which often is abnormal in those with myasthenia gravis), improves symptoms in certain individuals Other therapies include plasmapheresis, a procedure in which abnormal antibodies are removed from the blood, and high-dose intravenous immune globulin, which temporarily modifies the immune system and provides the body with normal antibodies from donated blood.
+Source: 0000206.xml
+
+Topic: Myasthenia Gravis
+Question: What is the outlook for Myasthenia Gravis ?
+Answer: With treatment, most individuals with myasthenia can significantly improve their muscle weakness. Some case of myasthenia gravis may go into remission temporarily, and muscle weakness may disappear so that medications can be discontinued. In a few cases, the severe weakness of myasthenia gravis may cause respiratory failure, which requires immediate emergency medical care.
+Source: 0000206.xml
+
+Topic: Myasthenia Gravis
+Question: what research (or clinical trials) is being done for Myasthenia Gravis ?
+Answer: Scientists are evaluating new and improving current treatments for myasthenia gravis. Different drugs are being tested, either alone or in combination with existing drug therapies, to see if they are effective in treating the disorder. One study seeks to understand the molecular basis of synaptic transmission in the nervous system. Thymectomy is being studied in individuals who do not have thymoma, to assess long-term benefit the surgery may have over medical therapy alone. And investigators are examining the safety and efficacy of autologous hematopoietic stem cell transplantation to treat refractory and severe myasthenia gravis.
+Source: 0000206.xml

@@ -1,0 +1,4 @@
+Topic: Isodicentric chromosome 15 syndrome
+Question: What is (are) Isodicentric chromosome 15 syndrome ?
+Answer: Isodicentric chromosome 15 syndrome is a chromosome abnormality that affects many different parts of the body. As the name suggests, people with this condition have an extra chromosome (called an isodicentric chromosome 15) which is made of two pieces of chromosome 15 that are stuck together end-to-end. Although the severity of the condition and the associated features vary from person to person, common signs and symptoms include poor muscle tone in newborns; developmental delay; mild to severe intellectual disability; delayed or absent speech; behavioral abnormalities; and seizures. Most cases of isodicentric chromosome 15 syndrome occur sporadically in people with no family history of the condition. Treatment is based on the signs and symptoms present in each person.
+Source: 0003266.xml

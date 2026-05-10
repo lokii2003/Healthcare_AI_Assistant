@@ -1,0 +1,4 @@
+Topic: Intestinal pseudo-obstruction
+Question: What is (are) Intestinal pseudo-obstruction ?
+Answer: Intestinal pseudo-obstruction is a digestive disorder in which the intestinal walls are unable to contract normally (called hypomotility); the condition resembles a true obstruction, but no actual blockage exists. Signs and symptoms may include abdominal pain; vomiting; diarrhea; constipation; malabsorption of nutrients leading to weight loss and/or failure to thrive; and other symptoms. It may be classified as neuropathic (from lack of nerve function) or myopathic (from lack of muscle function), depending on the source of the abnormality. The condition is sometimes inherited (in an X-linked recessive or autosomal dominant manner) and may be caused by mutations in the FLNA gene; it may also be acquired after certain illnesses. The goal of treatment is to provide relief from symptoms and ensure that nutritional support is adequate.
+Source: 0003235.xml

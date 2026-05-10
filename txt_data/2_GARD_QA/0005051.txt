@@ -1,0 +1,4 @@
+Topic: Primary hyperparathyroidism
+Question: What is (are) Primary hyperparathyroidism ?
+Answer: Hyperparathyroidism is an endocrine disorder in which the parathyroid glands in the neck produce too much parathyroid hormone (PTH). Signs and symptoms are often mild and nonspecific, such as a feeling of weakness and fatigue, depression, or aches and pains. With more severe disease, a person may have a loss of appetite, nausea, vomiting, constipation, confusion or impaired thinking and memory, and increased thirst and urination. Patients may have thinning of the bones without symptoms, but with risk of fractures. There are two main types of hyperparathyroidism: primary hyperparathyroidism and secondary hyperparathyroidism. Surgery to remove the parathyroid gland(s) is the main treatment for the disorder. Some patients with mild disease do not require treatment.
+Source: 0005051.xml

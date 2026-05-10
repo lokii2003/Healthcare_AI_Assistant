@@ -1,0 +1,19 @@
+Topic: Iridocorneal endothelial syndrome
+Question: What is (are) Iridocorneal endothelial syndrome ?
+Answer: Iridocorneal endothelial (ICE) syndrome describes a group of eye diseases that are characterized by three main features:  Visible changes in the iris (the colored part of the eye that regulates the amount of light entering the eye)  Swelling of the cornea, and  The development of glaucoma (a disease that can cause severe vision loss when normal fluid inside the eye cannot drain properly) ICE syndrome, is more common in women than men, most commonly diagnosed in middle age, and is usually present in only one eye. The condition is actually a grouping of three closely linked conditions: Cogan-Reese syndrome; Chandler's syndrome; and essential (progressive) iris atrophy. The cause of ICE syndrome is unknown, however there is a theory that it is triggered by a virus that leads to swelling of the cornea. While there is no way to stop the progression of the condition, treatment of the symptoms may include medication for glaucoma and corneal transplant for corneal swelling.
+Source: 0003253.xml
+
+Topic: Iridocorneal endothelial syndrome
+Question: What are the symptoms of Iridocorneal endothelial syndrome ?
+Answer: What are the signs and symptoms of iridocorneal endothelial (ICE) syndrome? The most common feature of ICE syndrome is the movement of endothelial cells off the cornea onto the iris. This loss of cells from the cornea often leads to swelling of the cornea, distortion of the iris, and variable degrees of distortion of the pupil (the adjustable opening at the center of the iris that allows varying amounts of light to enter the eye). This cell movement also plugs the fluid outflow channels of the eye, causing glaucoma.
+Source: 0003253.xml
+
+Topic: Iridocorneal endothelial syndrome
+Question: What causes Iridocorneal endothelial syndrome ?
+Answer: What causes iridocorneal endothelial (ICE) syndrome? The cause of this disease is unknown. However, it has been theorized that a viral infection, such as Herpes simplex virus (HSV) or Epstein-Barr virus (EBV) may be the trigger that causes the cornea to swell.
+Source: 0003253.xml
+
+Topic: Iridocorneal endothelial syndrome
+Question: What are the treatments for Iridocorneal endothelial syndrome ?
+Answer: How might iridocorneal endothelial (ICE) syndrome be treated? It is not possible to halt the progression of ICE syndrome. Treatment is usually focused on managing the glaucoma associated with the disease, either through medication or possible surgery, to help reduce pressure in the eye. Medication and corneal transplant can also be used to treat corneal swelling.
+Source: 0003253.xml

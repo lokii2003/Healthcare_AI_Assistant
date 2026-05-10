@@ -1,0 +1,4 @@
+Topic: Lactate dehydrogenase deficiency
+Question: What is (are) Lactate dehydrogenase deficiency ?
+Answer: Lactate dehydrogenase deficiency is a condition that affects how the body breaks down sugar to use as energy in cells, primarily muscle cells. There are two types of lactate dehydrogenase deficiency: lactate dehydrogenase A deficiency (sometimes called glycogen storage disease XI) and lactate dehydrogenase B deficiency. People with lactate dehydrogenase A deficiency experience fatigue, muscle pain, and cramps during exercise (exercise intolerance). People with lactate dehydrogenase B deficiency typically do not have symptoms. Lactate dehydrogenase A deficiency is caused by mutations in the LDHA gene. Lactate dehydrogenase B deficiency is caused by mutations in the LDHB gene. Both types are inherited in an autosomal recessive pattern.
+Source: 0003451.xml

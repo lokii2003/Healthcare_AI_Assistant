@@ -1,0 +1,9 @@
+Topic: Progressive multifocal leukoencephalopathy
+Question: What is (are) Progressive multifocal leukoencephalopathy ?
+Answer: Progressive multifocal leukoencephalopathy (PML) is a neurological disorder that damages the myelin that covers and protects nerves in the white matter of the brain. It is caused by the JC virus (JCV). By age 10, most people have been infected with this virus, but it rarely causes symptoms unless the immune system becomes severely weakened. The disease occurs, rarely, in organ transplant patients; people undergoing chronic corticosteroid or immunosuppressive therapy; and individuals with cancer, such as Hodgkins disease, lymphoma, and sarcoidosis.  PML is most common among individuals with acquired immune deficiency syndrome (AIDS).
+Source: 0005088.xml
+
+Topic: Progressive multifocal leukoencephalopathy
+Question: What are the treatments for Progressive multifocal leukoencephalopathy ?
+Answer: How might progressive multifocal leukoencephalopathy (PML) be treated? Currently, the best available therapy is reversal of the immune-deficient state. This can sometimes be accomplished by alteration of chemotherapy or immunosuppression. In the case of HIV-associated PML, immediately beginning anti-retroviral therapy will benefit most individuals.
+Source: 0005088.xml

@@ -1,0 +1,29 @@
+Topic: Binswanger's disease
+Question: What is (are) Binswanger's disease ?
+Answer: Binswanger's disease is a type of dementia caused by widespread, microscopic areas of damage to the deep layers of white matter in the brain. Most affected people experience progressive memory loss and deterioration of intellectual abilities (dementia); urinary urgency or incontinence; and an abnormally slow, unsteady gait (style of walking). While there is no cure, the progression of Binswanger's disease can be slowed with healthy lifestyle choices. Treatment is based on the signs and symptoms present in each person.
+Source: 0000734.xml
+
+Topic: Binswanger's disease
+Question: What are the symptoms of Binswanger's disease ?
+Answer: What are the signs and symptoms of Binswanger's disease? The signs and symptoms associated with Binswanger's disease generally disrupt tasks related to "executive cognitive functioning," including short-term memory, organization, mood, the regulation of attention, the ability to make decisions, and appropriate behavior. Binswanger's disease is primarily characterized by psychomotor slowness - an increase in the length of time it takes, for example, for the fingers to turn the thought of a letter into the shape of a letter on a piece of paper. Other symptoms include forgetfulness (but not as severe as the forgetfulness of Alzheimer disease); changes in speech; an unsteady gait; clumsiness or frequent falls; changes in personality or mood (most likely in the form of apathy, irritability, and depression); and urinary symptoms that aren't caused by urological disease.
+Source: 0000734.xml
+
+Topic: Binswanger's disease
+Question: What causes Binswanger's disease ?
+Answer: What causes Binswanger's disease? Binswanger's disease occurs when the blood vessels that supply the deep structures of the brain become obstructed (blocked). As the arteries become more and more narrowed, the blood supplied by those arteries decreases and brain tissue dies. This can be caused by atherosclerosis, thromboembolism (blood clots) and other diseases such as CADASIL. Risk factors for Binswanger's disease include: Hypertension Smoking Hypercholesterolemia Heart disease Diabetes mellitus
+Source: 0000734.xml
+
+Topic: Binswanger's disease
+Question: Is Binswanger's disease inherited ?
+Answer: Is Binswanger's disease an inherited condition? Although Binswanger's disease is not considered an inherited condition, genetics may play a role in many of the conditions and risk factors that are associated with the disease (i.e. atherosclerosis, blood clots).
+Source: 0000734.xml
+
+Topic: Binswanger's disease
+Question: How to diagnose Binswanger's disease ?
+Answer: How is Binswanger's disease diagnosed? A diagnosis of Binswanger's disease is often suspected based on the presence of characteristic signs and symptoms. Additional testing can then be ordered to confirm the diagnosis. This generally consists of imaging studies of the brain (i.e. CT scan and/or MRI scan).
+Source: 0000734.xml
+
+Topic: Binswanger's disease
+Question: What are the treatments for Binswanger's disease ?
+Answer: How is Binswanger's disease treated? The brain damage associated with Binswanger's disease is not reversible. Treatment is based on the signs and symptoms present in each person. For example, medications may be prescribed to treat depression, agitation, and other symptoms associated with the condition. Successful management of hypertension and diabetes can slow the progression of atherosclerosis, which can delay the progression of Binswanger's disease.
+Source: 0000734.xml

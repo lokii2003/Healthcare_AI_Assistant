@@ -1,0 +1,24 @@
+Topic: Wolman disease
+Question: What is (are) Wolman disease ?
+Answer: Wolman disease is a rare inherited condition involving the breakdown and use of fats and cholesterol in the body (lipid metabolism). In affected individuals, harmful amounts of lipids accumulate in the spleen, liver, bone marrow, small intestine, small hormone-producing glands on top of each kidney (adrenal glands), and lymph nodes. In addition to fat deposits, calcium deposits in the adrenal glands are also seen.  Infants with Wolman disease are healthy and active at birth but soon develop signs and symptoms of the disorder. These may include an enlarged liver and spleen (hepatosplenomegaly), poor weight gain, low muscle tone, a yellow tint to the skin and the whites of the eyes (jaundice), vomiting, diarrhea, developmental delay, low amounts of iron in the blood (anemia), and poor absorption of nutrients from food. Children affected by this condition develop severe malnutrition and generally do not survive past early childhood.
+Source: 0001043.xml
+
+Topic: Wolman disease
+Question: How many people are affected by Wolman disease ?
+Answer: Wolman disease is estimated to occur in 1 in 350,000 newborns.
+Source: 0001043.xml
+
+Topic: Wolman disease
+Question: What are the genetic changes related to Wolman disease ?
+Answer: Mutations in the LIPA gene cause Wolman disease.  The LIPA gene provides instructions for producing an enzyme called lysosomal acid lipase. This enzyme is found in the lysosomes (compartments that digest and recycle materials in the cell), where it processes lipids such as cholesteryl esters and triglycerides so they can be used by the body.  Mutations in this gene lead to a shortage of lysosomal acid lipase and the accumulation of triglycerides, cholesteryl esters, and other kinds of fats within the cells and tissues of affected individuals. This accumulation as well as malnutrition caused by the body's inability to use lipids properly result in the signs and symptoms of Wolman disease.
+Source: 0001043.xml
+
+Topic: Wolman disease
+Question: Is Wolman disease inherited ?
+Answer: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Source: 0001043.xml
+
+Topic: Wolman disease
+Question: What are the treatments for Wolman disease ?
+Answer: These resources address the diagnosis or management of Wolman disease:  - Genetic Testing Registry: Lysosomal acid lipase deficiency   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0001043.xml

@@ -1,0 +1,14 @@
+Topic: Familial exudative vitreoretinopathy
+Question: What is (are) Familial exudative vitreoretinopathy ?
+Answer: Familial exudative vitreoretinopathy (FEVR) is a hereditary disorder that can cause progressive vision loss. This condition affects the retina, the light-sensitive tissue that lines the back of the eye, by preventing blood vessels from forming at the edges of the retina. This reduces the blood supply to retina. The signs and symptoms include vision loss or blindness, retinal detachment, strabismus, and a visible whiteness (leukocoria) in the normally black pupil. The severity of FEVR varies widely, even within the same family. Many people with this condition do not experience any vision problems.FEVR has different inheritance patterns depending on the gene involved. Most individuals have the autosomal dominant form of this condition, caused by mutations in the FZD4 or LRP5 gene. FEVR caused by LRP5 gene mutations can also have an autosomal recessive inheritance. When this condition is caused by mutations in the NDP gene, it has an X-linked pattern of inheritance.
+Source: 0002251.xml
+
+Topic: Familial exudative vitreoretinopathy
+Question: Is Familial exudative vitreoretinopathy inherited ?
+Answer: How is familial exudative vitreoretinopathy inherited? FEVR has different inheritance patterns depending on the gene involved. Most individuals have the autosomal dominant form of this condition, caused by mutations in the FZD4 or LRP5 gene. FEVR caused by LRP5 gene mutations can also have an autosomal recessive inheritance. When this condition is caused by mutations in the NDP gene, it has an X-linked pattern of inheritance.
+Source: 0002251.xml
+
+Topic: Familial exudative vitreoretinopathy
+Question: What are the treatments for Familial exudative vitreoretinopathy ?
+Answer: How might familial exudative vitreoretinopathy be treated? Affected individuals with abnormal blood vessel formation in their retina can be treated with laser therapy. Surgery may also be necessary to correct retinal detachment.
+Source: 0002251.xml

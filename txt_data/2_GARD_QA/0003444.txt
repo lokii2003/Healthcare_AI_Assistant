@@ -1,0 +1,14 @@
+Topic: La Crosse encephalitis
+Question: What is (are) La Crosse encephalitis ?
+Answer: La Crosse (LAC) encephalitis is a mosquito-borne virus that was first described in La Crosse, Wisconsin in 1963. Since then, it has been reported in several Midwestern and Mid-Atlantic states. The LAC virus is one of many mosquito-transmitted viruses that can cause an inflammation of the brain (encephalitis). About 80-100 cases of this condition are reported each year in the United States. Most cases occur in children younger than age 16. While most people who become infected have no symptoms, those who do become ill may have fever, headache, vomiting and lethargy (tiredness). Severe cases develop encephalitis accompanied by seizures. Coma and paralysis occur in some cases. There is no specific treatment for LAC encephalitis. Supportive therapy is provided to those who develop severe cases of the disease.
+Source: 0003444.xml
+
+Topic: La Crosse encephalitis
+Question: What are the symptoms of La Crosse encephalitis ?
+Answer: What are the symptoms of La Crosse (LAC) encephalitis? Most people infected with LAC encephalitis do not have symptoms. Those that do become ill may initially have fever, headache, vomiting and lethargy (tiredness). Severe cases may develop encephalitis, an inflammation of the brain, which is often accompanied by seizures. Coma and paralysis may also occur. Most cases that develop symptoms occur in children under the age of 16 Symptoms, if present, typically develop 5 to 15 days after the bite of an infected mosquito. Most cases occur during the summer months.
+Source: 0003444.xml
+
+Topic: La Crosse encephalitis
+Question: What are the treatments for La Crosse encephalitis ?
+Answer: How might La Crosse (LAC) encephalitis be treated? There is no specific treatment for LAC encephalitis. Severe cases are treated with supportive therapy which may include hospitalization, respiratory support, IV fluids and prevention of other infections.[9633]
+Source: 0003444.xml

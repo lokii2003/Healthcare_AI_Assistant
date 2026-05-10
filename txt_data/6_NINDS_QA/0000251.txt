@@ -1,0 +1,19 @@
+Topic: Schizencephaly
+Question: What is (are) Schizencephaly ?
+Answer: Schizencephaly is an extremely rare developmental birth defect characterized by abnormal slits, or clefts, in the cerebral hemispheres of the brain. Babies with clefts in both hemispheres (called bilateral clefts) commonly have developmental delays, delays in speech and language skills, and problems with brain-spinal cord communication. Individuals with clefts in only one hemisphere (called unilateral clefts) are often paralyzed on one side of the body, but may have average to near-average intelligence. Individuals with schizencephaly may also have an abnormally small head, cognitive delay and impairment, partial or complete paralysis, or poor muscle tone. Most will experience seizures. Some individuals may have an excessive accumulation of fluid in the brain called hydrocephalus.
+Source: 0000251.xml
+
+Topic: Schizencephaly
+Question: What are the treatments for Schizencephaly ?
+Answer: Treatment generally consists of physical therapy and drugs to prevent seizures. In cases that are complicated by hydrocephalus, a surgically implanted tube, called a shunt, is often used to divert fluid to another area of the body where it can be absorbed.
+Source: 0000251.xml
+
+Topic: Schizencephaly
+Question: What is the outlook for Schizencephaly ?
+Answer: The prognosis for individuals with schizencephaly varies depending on the size of the clefts and the extent of neurological disabilities.
+Source: 0000251.xml
+
+Topic: Schizencephaly
+Question: what research (or clinical trials) is being done for Schizencephaly ?
+Answer: The NINDS conducts and supports a wide range of studies that explore the mechanisms of normal brain development. The knowledge gained from these fundamental studies provides the foundation for understanding how to prevent or treat developmental brain defects such as schizencephaly.
+Source: 0000251.xml

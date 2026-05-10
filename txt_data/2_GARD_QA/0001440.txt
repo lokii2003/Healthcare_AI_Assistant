@@ -1,0 +1,19 @@
+Topic: Colpocephaly
+Question: What is (are) Colpocephaly ?
+Answer: Colpocephaly is a congenital brain abnormality in which the occipital horns - the posterior or rear portion of the lateral ventricles (cavities) of the brain - are larger than normal because white matter in the posterior cerebrum has failed to develop or thicken.
+Source: 0001440.xml
+
+Topic: Colpocephaly
+Question: What are the symptoms of Colpocephaly ?
+Answer: What are the symptoms of colpocephaly? Colpocephaly is characterized by a small head circumference and in many cases, intellectual disability. Other signs and symptoms may include movement abnormalities, muscle spasms, and seizures. Poor vision, speech and language difficulties, deafness, and chorioretinitis have been described in individual cases. Cases of people with colpocephaly and normal neurological and motor development have also been described.
+Source: 0001440.xml
+
+Topic: Colpocephaly
+Question: What causes Colpocephaly ?
+Answer: What causes colpocephaly? Researchers believe that the disorder results from some kind of disturbance in the fetal environment that occurs between the second and sixth months of pregnancy. The underlying causes of colpocephaly are multiple and diverse. Causes include chromosomal anomalies such as trisomy-8 mosaicism and trisomy-9 mosaicism; intrauterine infection such as toxoplasmosis; perinatal anoxic-ischemic encephalopathy; and maternal drug ingestion during early pregnancy, such as corticosteroids, salbutamol, and theophylline. In addition, a familial occurrence of colpocephaly has been noted in three reports. A genetic origin with an autosomal recessive or X-linked recessive inheritance was suggested in these familial cases.
+Source: 0001440.xml
+
+Topic: Colpocephaly
+Question: What are the treatments for Colpocephaly ?
+Answer: How might colpocephaly be treated? There is no definitive treatment for colpocephaly. Anticonvulsant medications are often prescribed to prevent seizures, and doctors rely on exercise therapies and orthopedic appliances to reduce shrinkage or shortening of muscles.
+Source: 0001440.xml

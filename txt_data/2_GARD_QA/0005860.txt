@@ -1,0 +1,19 @@
+Topic: Spondylothoracic dysostosis
+Question: What is (are) Spondylothoracic dysostosis ?
+Answer: Spondylothoracic dysostosis is a rare condition that affects the bones of the spine and the ribs. Signs and symptoms are generally present at birth and may include short-trunk dwarfism (a short body with normal length arms and legs); a small chest cavity; misshapen and abnormally fused vertebrae (bones of the spine); and fused ribs at the part nearest the spine. Affected people may also have life-threatening breathing problems and recurrent lung infections, which can significantly reduce lifespan. Spondylothoracic dysostosis is caused by changes (mutations) in the MESP2 gene and is inherited in an autosomal recessive manner. Treatment is based on the signs and symptoms present in each person and may include surgery for bone malformations and respiratory support.
+Source: 0005860.xml
+
+Topic: Spondylothoracic dysostosis
+Question: What are the symptoms of Spondylothoracic dysostosis ?
+Answer: What are the signs and symptoms of spondylothoracic dysostosis? Signs and symptoms of spondylothoracic dysostosis, include spine and vertebral abnormalities which result in a shortened spine, neck, and trunk, as well as rib anomalies including fused ribs which in combination with the spine anomalies result in a "crab-like" appearance to the rib cage. The shortened spine and rib cage anomalies can cause serious breathing problems and recurring lung infections. These complications result in a 32% death rate in early childhood. Other complications of spondylothoracic dysostosis, include shortened stature (due to the spine and vertebral defects) and limited neck motion. Symptom and symptom severity may vary from patient to patient, however symptoms tend to be the worse for children who carry two "E230X" mutations in the MESP2 gene. Most patients with spondylothoracic dysostosis have normal intelligence and neurological problems are infrequent.
+Source: 0005860.xml
+
+Topic: Spondylothoracic dysostosis
+Question: Is Spondylothoracic dysostosis inherited ?
+Answer: Is spondylothoracic dysostosis genetic? Yes. Spondylothoracic dysostosis is caused by mutations in the MESP2 gene. It is inherited in an autosomal recessive fashion.
+Source: 0005860.xml
+
+Topic: Spondylothoracic dysostosis
+Question: What are the treatments for Spondylothoracic dysostosis ?
+Answer: What treatment is available for spondylothoracic dysostosis? Many infants born with spondylothoracic dysostosis have difficulty breathing due to their small, malformed chests, and therefore are prone to repeated respiratory infections (pneumonia). As the infant grows, the chest is too small to accommodate the growing lungs, and as a result, life threatening complications may develop. Treatment usually consists of intensive medical care, including treatment of respiratory infections, bone surgery, and orthopedic treatment.
+Source: 0005860.xml

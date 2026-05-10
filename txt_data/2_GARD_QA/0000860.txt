@@ -1,0 +1,9 @@
+Topic: Brown-Sequard syndrome
+Question: What is (are) Brown-Sequard syndrome ?
+Answer: Brown-Sequard syndrome is a rare neurological condition characterized by a lesion in the spinal cord. This condition results in weakness or paralysis on one side of the body (hemiparaplegia) and a loss of sensation  on the opposite side (hemianesthesia). Brown-Sequard syndrome may be caused by a spinal cord tumor, trauma (such as a puncture wound to the neck or back), obstructed blood vessel, or infectious or inflammatory diseases such as tuberculosis, or multiple sclerosis. Treatment and prognosis depends on the underlying cause of the condition.
+Source: 0000860.xml
+
+Topic: Brown-Sequard syndrome
+Question: What are the treatments for Brown-Sequard syndrome ?
+Answer: How might Brown-Sequard syndrome be treated?
+Source: 0000860.xml

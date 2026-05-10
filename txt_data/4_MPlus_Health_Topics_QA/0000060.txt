@@ -1,0 +1,4 @@
+Topic: Asian American Health
+Question: Do you have information about Asian American Health
+Answer: Summary : Every racial or ethnic group has specific health concerns. Differences in the health of groups can result from       - Genetics    - Environmental factors    - Access to care    - Cultural factors        On this page, you'll find links to health issues that affect Asian Americans.
+Source: 0000060.xml

@@ -1,0 +1,24 @@
+Topic: Greig cephalopolysyndactyly syndrome
+Question: What is (are) Greig cephalopolysyndactyly syndrome ?
+Answer: Greig cephalopolysyndactyly syndrome is a disorder that affects development of the limbs, head, and face. The features of this syndrome are highly variable, ranging from very mild to severe. People with this condition typically have one or more extra fingers or toes (polydactyly) or an abnormally wide thumb or big toe (hallux). The skin between the fingers and toes may be fused (cutaneous syndactyly). This disorder is also characterized by widely spaced eyes (ocular hypertelorism), an abnormally large head size (macrocephaly), and a high, prominent forehead. Rarely, affected individuals may have more serious medical problems including seizures, developmental delay, and intellectual disability.
+Source: 0000439.xml
+
+Topic: Greig cephalopolysyndactyly syndrome
+Question: How many people are affected by Greig cephalopolysyndactyly syndrome ?
+Answer: This condition is very rare; its prevalence is unknown.
+Source: 0000439.xml
+
+Topic: Greig cephalopolysyndactyly syndrome
+Question: What are the genetic changes related to Greig cephalopolysyndactyly syndrome ?
+Answer: Mutations in the GLI3 gene cause Greig cephalopolysyndactyly syndrome. The GLI3 gene provides instructions for making a protein that controls gene expression, which is a process that regulates whether genes are turned on or off in particular cells. By interacting with certain genes at specific times during development, the GLI3 protein plays a role in the normal shaping (patterning) of many organs and tissues before birth.  Different genetic changes involving the GLI3 gene can cause Greig cephalopolysyndactyly syndrome. In some cases, the condition results from a chromosomal abnormalitysuch as a large deletion or rearrangement of genetic materialin the region of chromosome 7 that contains the GLI3 gene. In other cases, a mutation in the GLI3 gene itself is responsible for the disorder. Each of these genetic changes prevents one copy of the gene in each cell from producing any functional protein. It remains unclear how a reduced amount of this protein disrupts early development and causes the characteristic features of Greig cephalopolysyndactyly syndrome.
+Source: 0000439.xml
+
+Topic: Greig cephalopolysyndactyly syndrome
+Question: Is Greig cephalopolysyndactyly syndrome inherited ?
+Answer: This condition is inherited in an autosomal dominant pattern, which means one altered or missing copy of the GLI3 gene in each cell is sufficient to cause the disorder. In some cases, an affected person inherits a gene mutation or chromosomal abnormality from one affected parent. Other cases occur in people with no history of the condition in their family.
+Source: 0000439.xml
+
+Topic: Greig cephalopolysyndactyly syndrome
+Question: What are the treatments for Greig cephalopolysyndactyly syndrome ?
+Answer: These resources address the diagnosis or management of Greig cephalopolysyndactyly syndrome:  - Gene Review: Gene Review: Greig Cephalopolysyndactyly Syndrome  - Genetic Testing Registry: Greig cephalopolysyndactyly syndrome  - MedlinePlus Encyclopedia: Polydactyly  - MedlinePlus Encyclopedia: Syndactyly (image)   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0000439.xml

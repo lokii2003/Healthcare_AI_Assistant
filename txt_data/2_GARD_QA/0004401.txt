@@ -1,0 +1,24 @@
+Topic: Neutral lipid storage disease with myopathy
+Question: What is (are) Neutral lipid storage disease with myopathy ?
+Answer: Neutral lipid storage disease with myopathy is a condition in which fats (lipids) are stored abnormally in organs and tissues throughout the body. The accumulation of fats in muscle tissue leads to muscle weakness (myopathy). This condition is caused by mutations in the PNPLA2 gene. It is inherited in an autosomal recessive pattern. There is currently no treatment to correct the underlying metabolic problem.
+Source: 0004401.xml
+
+Topic: Neutral lipid storage disease with myopathy
+Question: What are the symptoms of Neutral lipid storage disease with myopathy ?
+Answer: What are the signs and symptoms of Neutral lipid storage disease with myopathy? The Human Phenotype Ontology provides the following list of signs and symptoms for Neutral lipid storage disease with myopathy. If the information is available, the table below includes how often the symptom is seen in people with this condition. You can use the MedlinePlus Medical Dictionary to look up the definitions for these medical terms. Signs and Symptoms Approximate number of patients (when available) Areflexia 5% Cardiomyopathy 5% Diabetes mellitus 5% Hypertriglyceridemia 5% Neck muscle weakness 5% Sensorineural hearing impairment 5% Short stature 5% Adult onset - Autosomal recessive inheritance - Difficulty running - Difficulty walking - Easy fatigability - Elevated hepatic transaminases - Elevated serum creatine phosphokinase - Exercise intolerance - Fasciculations - Gowers sign - Hepatic steatosis - Hepatomegaly - Increased muscle lipid content - Muscular hypotonia - Myalgia - Myopathy - Proximal muscle weakness - Slow progression - Variable expressivity - The Human Phenotype Ontology (HPO) has collected information on how often a sign or symptom occurs in a condition. Much of this information comes from Orphanet, a European rare disease database. The frequency of a sign or symptom is usually listed as a rough estimate of the percentage of patients who have that feature. The frequency may also be listed as a fraction. The first number of the fraction is how many people had the symptom, and the second number is the total number of people who were examined in one study. For example, a frequency of 25/25 means that in a study of 25 people all patients were found to have that symptom. Because these frequencies are based on a specific study, the fractions may be different if another group of patients are examined. Sometimes, no information on frequency is available. In these cases, the sign or symptom may be rare or common.
+Source: 0004401.xml
+
+Topic: Neutral lipid storage disease with myopathy
+Question: What causes Neutral lipid storage disease with myopathy ?
+Answer: What causes neutral lipid storage disease with myopathy? Neutral lipid storage disease with myopathy is caused by mutations in the PNPLA2 gene. This gene provides instructions for making an enzyme called adipose triglyceride lipase (ATGL). The ATGL enzyme plays a role in breaking down fats called triglycerides. Triglycerides are an important source of stored energy in cells. These fats must be broken down into simpler molecules called fatty acids before they can be used for energy. PNPLA2 gene mutations impair the ATGL enzyme's ability to break down triglycerides, allowing them to accumulate in muscle and tissues throughout the body. This results in the signs and symptoms seen in people with neutral lipid storage disease with myopathy.
+Source: 0004401.xml
+
+Topic: Neutral lipid storage disease with myopathy
+Question: Is Neutral lipid storage disease with myopathy inherited ?
+Answer: How is neutral lipid storage disease with myopathy inherited? This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Source: 0004401.xml
+
+Topic: Neutral lipid storage disease with myopathy
+Question: What are the treatments for Neutral lipid storage disease with myopathy ?
+Answer: How might neutral lipid storage disease with myopathy be treated? To date, there is no treatment for the underlying metabolic problem. Current therapies include adhering to strict dietary guidelines and utilizing treatments focused on the associated symptoms. A recent study suggests that people with this condition may benefit from bezafibrate (a medication used to treat high cholesterol) treatment, particularly with respect to lipid accumulation and fat oxidative capacity. Additional studies into this therapy are needed.
+Source: 0004401.xml

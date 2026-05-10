@@ -1,0 +1,19 @@
+Topic: Tabes Dorsalis
+Question: What is (are) Tabes Dorsalis ?
+Answer: Tabes dorsalis is a slow degeneration of the nerve cells and nerve fibers that carry sensory information to the brain. The degenerating nerves are in the dorsal columns of the spinal cord (the portion closest to the back of the body) and carry information that help maintain a person's sense of position. Tabes dorsalis is the result of an untreated syphilis infection. Symptoms may not appear for some decades after the initial infection and include weakness, diminished reflexes, unsteady gait, progressive degeneration of the joints, loss of coordination, episodes of intense pain and disturbed sensation, personality changes, dementia, deafness, visual impairment, and impaired response to light. The disease is more frequent in males than in females. Onset is commonly during mid-life. The incidence of tabes dorsalis is rising, in part due to co-associated HIV infection.
+Source: 0000240.xml
+
+Topic: Tabes Dorsalis
+Question: What are the treatments for Tabes Dorsalis ?
+Answer: Penicillin, administered intravenously, is the treatment of choice. Associated pain can be treated with opiates, valproate, or carbamazepine. Patients may also require physical or rehabilitative therapy to deal with muscle wasting and weakness. Preventive treatment for those who come into sexual contact with an individual with tabes dorsalis is important.
+Source: 0000240.xml
+
+Topic: Tabes Dorsalis
+Question: What is the outlook for Tabes Dorsalis ?
+Answer: If left untreated, tabes dorsalis can lead to paralysis, dementia, and blindness. Existing nerve damage cannot be reversed.
+Source: 0000240.xml
+
+Topic: Tabes Dorsalis
+Question: what research (or clinical trials) is being done for Tabes Dorsalis ?
+Answer: The NINDS supports and conducts research on neurodegenerative disorders, such as tabes dorsalis, in an effort to find ways to prevent, treat, and, ultimately, cure these disorders.
+Source: 0000240.xml

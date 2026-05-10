@@ -1,0 +1,24 @@
+Topic: Gaucher disease
+Question: What is (are) Gaucher disease ?
+Answer: Gaucher disease is an inherited disorder that affects many of the body's organs and tissues. The signs and symptoms of this condition vary widely among affected individuals. Researchers have described several types of Gaucher disease based on their characteristic features.  Type 1 Gaucher disease is the most common form of this condition. Type 1 is also called non-neuronopathic Gaucher disease because the brain and spinal cord (the central nervous system) are usually not affected. The features of this condition range from mild to severe and may appear anytime from childhood to adulthood. Major signs and symptoms include enlargement of the liver and spleen (hepatosplenomegaly), a low number of red blood cells (anemia), easy bruising caused by a decrease in blood platelets (thrombocytopenia), lung disease, and bone abnormalities such as bone pain, fractures, and arthritis.  Types 2 and 3 Gaucher disease are known as neuronopathic forms of the disorder because they are characterized by problems that affect the central nervous system. In addition to the signs and symptoms described above, these conditions can cause abnormal eye movements, seizures, and brain damage. Type 2 Gaucher disease usually causes life-threatening medical problems beginning in infancy. Type 3 Gaucher disease also affects the nervous system, but it tends to worsen more slowly than type 2.  The most severe type of Gaucher disease is called the perinatal lethal form. This condition causes severe or life-threatening complications starting before birth or in infancy. Features of the perinatal lethal form can include extensive swelling caused by fluid accumulation before birth (hydrops fetalis); dry, scaly skin (ichthyosis) or other skin abnormalities; hepatosplenomegaly; distinctive facial features; and serious neurological problems. As its name indicates, most infants with the perinatal lethal form of Gaucher disease survive for only a few days after birth.  Another form of Gaucher disease is known as the cardiovascular type because it primarily affects the heart, causing the heart valves to harden (calcify). People with the cardiovascular form of Gaucher disease may also have eye abnormalities, bone disease, and mild enlargement of the spleen (splenomegaly).
+Source: 0000400.xml
+
+Topic: Gaucher disease
+Question: How many people are affected by Gaucher disease ?
+Answer: Gaucher disease occurs in 1 in 50,000 to 100,000 people in the general population. Type 1 is the most common form of the disorder; it occurs more frequently in people of Ashkenazi (eastern and central European) Jewish heritage than in those with other backgrounds. This form of the condition affects 1 in 500 to 1,000 people of Ashkenazi Jewish heritage. The other forms of Gaucher disease are uncommon and do not occur more frequently in people of Ashkenazi Jewish descent.
+Source: 0000400.xml
+
+Topic: Gaucher disease
+Question: What are the genetic changes related to Gaucher disease ?
+Answer: Mutations in the GBA gene cause Gaucher disease. The GBA gene provides instructions for making an enzyme called beta-glucocerebrosidase. This enzyme breaks down a fatty substance called glucocerebroside into a sugar (glucose) and a simpler fat molecule (ceramide). Mutations in the GBA gene greatly reduce or eliminate the activity of beta-glucocerebrosidase. Without enough of this enzyme, glucocerebroside and related substances can build up to toxic levels within cells. Tissues and organs are damaged by the abnormal accumulation and storage of these substances, causing the characteristic features of Gaucher disease.
+Source: 0000400.xml
+
+Topic: Gaucher disease
+Question: Is Gaucher disease inherited ?
+Answer: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Source: 0000400.xml
+
+Topic: Gaucher disease
+Question: What are the treatments for Gaucher disease ?
+Answer: These resources address the diagnosis or management of Gaucher disease:  - Baby's First Test  - Gene Review: Gene Review: Gaucher Disease  - Genetic Testing Registry: Gaucher disease  - MedlinePlus Encyclopedia: Gaucher Disease   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0000400.xml

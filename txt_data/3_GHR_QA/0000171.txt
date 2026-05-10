@@ -1,0 +1,24 @@
+Topic: Chanarin-Dorfman syndrome
+Question: What is (are) Chanarin-Dorfman syndrome ?
+Answer: Chanarin-Dorfman syndrome is a condition in which fats (lipids) are stored abnormally in the body. Affected individuals cannot break down certain fats called triglycerides, and these fats accumulate in organs and tissues, including skin, liver, muscles, intestine, eyes, and ears. People with this condition also have dry, scaly skin (ichthyosis), which is usually present at birth. Additional features of this condition include an enlarged liver (hepatomegaly), clouding of the lens of the eyes (cataracts), difficulty with coordinating movements (ataxia), hearing loss, short stature, muscle weakness (myopathy), involuntary movement of the eyes (nystagmus), and mild intellectual disability.  The signs and symptoms vary greatly among individuals with Chanarin-Dorfman syndrome. Some people may have ichthyosis only, while others may have problems affecting many areas of the body.
+Source: 0000171.xml
+
+Topic: Chanarin-Dorfman syndrome
+Question: How many people are affected by Chanarin-Dorfman syndrome ?
+Answer: Chanarin-Dorfman syndrome is a rare condition; its incidence is unknown.
+Source: 0000171.xml
+
+Topic: Chanarin-Dorfman syndrome
+Question: What are the genetic changes related to Chanarin-Dorfman syndrome ?
+Answer: Mutations in the ABHD5 gene cause Chanarin-Dorfman syndrome. The ABHD5 gene provides instructions for making a protein that turns on (activates) the ATGL enzyme, which breaks down triglycerides. Triglycerides are the main source of stored energy in cells. These fats must be broken down into simpler molecules called fatty acids before they can be used for energy.  ABHD5 gene mutations impair the protein's ability to activate the ATGL enzyme. An inactive enzyme makes the breakdown of triglycerides impossible, causing them to accumulate in tissues throughout the body. The buildup of triglycerides results in the signs and symptoms of Chanarin-Dorfman syndrome.
+Source: 0000171.xml
+
+Topic: Chanarin-Dorfman syndrome
+Question: Is Chanarin-Dorfman syndrome inherited ?
+Answer: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Source: 0000171.xml
+
+Topic: Chanarin-Dorfman syndrome
+Question: What are the treatments for Chanarin-Dorfman syndrome ?
+Answer: These resources address the diagnosis or management of Chanarin-Dorfman syndrome:  - Genetic Testing Registry: Triglyceride storage disease with ichthyosis  - MedlinePlus Encyclopedia: Ichthyosis vulgaris   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0000171.xml

@@ -1,0 +1,23 @@
+Topic: Progressive Supranuclear Palsy
+Question: What is (are) Progressive Supranuclear Palsy ?
+Answer: Progressive supranuclear palsy (PSP) is a rare brain disorder that causes serious and progressive problems with control of gait and balance, along with complex eye movement and thinking problems. One of the classic signs of the disease is an inability to aim the eyes properly, which occurs because of lesions in the area of the brain that coordinates eye movements. Some individuals describe this effect as a blurring. Affected individualsoften show alterations of mood and behavior, including depression and apathy as well as progressive mild dementia.
+                
+The disorder's long name indicates that the disease begins slowly and continues to get worse (progressive), and causes weakness (palsy) by damaging certain parts of the brain above pea-sized structures called nuclei that control eye movements (supranuclear).
+                
+PSP was first described as a distinct disorder in 1964, when three scientists published a paper that distinguished the condition from Parkinson's disease. It is sometimes referred to as Steele-Richardson-Olszewski syndrome, reflecting the combined names of the scientists who defined the disorder. Although PSP gets progressively worse, no one dies from PSP itself.
+Source: 0000242.xml
+
+Topic: Progressive Supranuclear Palsy
+Question: What are the treatments for Progressive Supranuclear Palsy ?
+Answer: There is currently no effective treatment for PSP, although scientists are searching for better ways to manage the disease. In some patients the slowness, stiffness, and balance problems of PSP may respond to antiparkinsonian agents such as levodopa, or levodopa combined with anticholinergic agents, but the effect is usually temporary. The speech, vision, and swallowing difficulties usually do not respond to any drug treatment.. Another group of drugs that has been of some modest success in PSP are antidepressant medications. The most commonly used of these drugs are Prozac, Elavil, and Tofranil. The anti-PSP benefit of these drugs seems not to be related to their ability to relieve depression. Non-drug treatment for PSP can take many forms. Patients frequently use weighted walking aids because of their tendency to fall backward. Bifocals or special glasses called prisms are sometimes prescribed for PSP patients to remedy the difficulty of looking down. Formal physical therapy is of no proven benefit in PSP, but certain exercises can be done to keep the joints limber. A surgical procedure, a gastrostomy, may be necessary when there are swallowing disturbances. This surgery involves the placement of a tube through the skin of the abdomen into the stomach (intestine) for feeding purposes.
+Source: 0000242.xml
+
+Topic: Progressive Supranuclear Palsy
+Question: What is the outlook for Progressive Supranuclear Palsy ?
+Answer: PSP gets progressively worse but is not itself directly life-threatening. It does, however, predispose patients to serious complications such as pneumonia secondary to difficulty in swallowing (dysphagia). The most common complications are choking and pneumonia, head injury, and fractures caused by falls. The most common cause of death is pneumonia. With good attention to medical and nutritional needs, however, most PSP patients live well into their 70s and beyond.
+Source: 0000242.xml
+
+Topic: Progressive Supranuclear Palsy
+Question: what research (or clinical trials) is being done for Progressive Supranuclear Palsy ?
+Answer: Research is ongoing on Parkinson's and Alzheimer's diseases. Better understanding of those common, related disorders will go a long way toward solving the problem of PSP, just as studying PSP may help shed light on Parkinson's and Alzheimer's diseases.
+Source: 0000242.xml

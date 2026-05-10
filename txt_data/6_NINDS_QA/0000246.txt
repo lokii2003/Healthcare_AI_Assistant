@@ -1,0 +1,21 @@
+Topic: Restless Legs Syndrome
+Question: What is (are) Restless Legs Syndrome ?
+Answer: Restless legs syndrome (RLS) is a neurological disorder characterized by unpleasant sensations in the legs and an uncontrollable, and sometimes overwhelming, urge to move them for relief. Individuals affected with the disorder often describe the sensations as throbbing, polling, or creeping. The sensations range in severity from uncomfortable to irritating to painful.
+Source: 0000246.xml
+
+Topic: Restless Legs Syndrome
+Question: What are the treatments for Restless Legs Syndrome ?
+Answer: For those with mild to moderate symptoms, many physicians suggest certain lifestyle changes and activities to reduce or eliminate symptoms. Decreased use of caffeine, alcohol, and tobacco may provide some relief. Physicians may suggest that certain individuals take supplements to correct deficiencies in iron, folate, and magnesium. Taking a hot bath, massaging the legs, or using a heating pad or ice pack can help relieve symptoms in some patients.
+                
+Physicians also may suggest a variety of medications to treat RLS, including dopaminergics, benzodiazepines (central nervous system depressants), opioids, and anticonvulsants. The drugs ropinirole, pramipexole, gabapentin enacarbil, and rotigotine have been approved by the U.S. Food and Drug Administration for treating moderate to severe RLS. The Relaxis pad, which the person can place at the site of discomfort when in bed and provides 30 minutes of vibrations (counterstimulation) that ramp off after 30 minutes, also has been approved by the FDA.
+Source: 0000246.xml
+
+Topic: Restless Legs Syndrome
+Question: What is the outlook for Restless Legs Syndrome ?
+Answer: RLS is generally a life-long condition for which there is no cure. Symptoms may gradually worsen with age. Nevertheless, current therapies can control the disorder, minimizing symptoms and increasing periods of restful sleep. In addition, some individuals have remissions, periods in which symptoms decrease or disappear for days, weeks, or months, although symptoms usually eventually reappear.
+Source: 0000246.xml
+
+Topic: Restless Legs Syndrome
+Question: what research (or clinical trials) is being done for Restless Legs Syndrome ?
+Answer: The National Institute of Neurological Disorders and Stroke (NINDS) and other institutes of the National Institutes of Health (NIH) conduct and support RLS research in laboratories at the NIH and at major medical institutions across the country. The goal of this research is to increase scientific understanding of RLS, find improved methods of diagnosing and treating the syndrome, and discover ways to prevent it.
+Source: 0000246.xml

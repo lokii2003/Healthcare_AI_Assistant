@@ -1,0 +1,4 @@
+Topic: Muscular Dystrophy
+Question: What is (are) Muscular Dystrophy ?
+Answer: Muscular dystrophy (MD) is a group of more than 30 inherited diseases. They all cause muscle weakness and muscle loss. Some forms of MD appear in infancy or childhood. Others may not appear until middle age or later. The different types can vary in whom they affect, which muscles they affect, and what the symptoms are. All forms of MD grow worse as the person's muscles get weaker. Most people with MD eventually lose the ability to walk.    There is no cure for muscular dystrophy. Treatments can help with the symptoms and prevent complications. They include physical and speech therapy, orthopedic devices, surgery, and medications. Some people with MD have mild cases that worsen slowly. Others cases are disabling and severe.    NIH: National Institute of Neurological Disorders and Stroke
+Source: 0000631.xml

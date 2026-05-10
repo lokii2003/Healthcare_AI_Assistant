@@ -1,0 +1,5 @@
+
+vector_store/
+__pycache__/
+logs/
+*.db

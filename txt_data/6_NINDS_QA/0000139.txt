@@ -1,0 +1,19 @@
+Topic: Krabbe Disease
+Question: What is (are) Krabbe Disease ?
+Answer: Krabbe disease is a rare, inherited metabolic disorder in which harmful amounts of lipids (fatty materials such as oils and waxes) build up in various cells and tissues in the body and destroys brain cells. Krabbe disease, also known as globoid cell leukodystrophy, ischaracterized by the presence of globoid cells (cells that have more than one nucleus) that break down the nerves protective myelin coating. Krabbe disease is caused by a deficiency of galactocerebrosidase, an essential enzyme for myelin metabolism. The disease most often affects infants, with onset before age 6 months, but can occur in adolescence or adulthood. Symptoms include severe deterioration of mental and motor skills, muscle weakness, hypertonia (inability of a muscle to stretch), myoclonic seizures (sudden, shock-like contractions of the limbs), and spasticity (involuntary and awkward movement). Other symptoms may include irritability, unexplained fever, blindness, difficulty with swallowing, and deafness.
+Source: 0000139.xml
+
+Topic: Krabbe Disease
+Question: What are the treatments for Krabbe Disease ?
+Answer: There is no cure for Krabbe disease. Results of a very small clinical trial of children with infantile Krabbe disease found that children who received umbilical cord blood stem cells from unrelated donors prior to symptom onset developed with little neurological impairment. Bone marrow transplantation may help some people. Generally, treatment for the disorder is symptomatic and supportive. Physical therapy may help maintain or increase muscle tone and circulation.
+Source: 0000139.xml
+
+Topic: Krabbe Disease
+Question: What is the outlook for Krabbe Disease ?
+Answer: Krabbe disease in infants is generally fatal before age 2. Individuals with a later onset form of the disease generally have a milder course of the disease and live significantly longer.
+Source: 0000139.xml
+
+Topic: Krabbe Disease
+Question: what research (or clinical trials) is being done for Krabbe Disease ?
+Answer: The mission of the National Institute of Neurological Disorders and Stroke (NINDS) is to seek fundamental knowledge about the brain and nervous system and to use that knowledge to reduce the burden of neurological disease. The NINDS is a component of the National Institutes of Health, the largest supporter of biomedical research in the world. Hamatopoietic stem cell transplantation -- using stem cells from umbilical cord blood or bone marrow -- has been shown to benefit some individuals when given early in the course of the disease. Scientists plan to test hematopoietic stem cell transplantation plus gene therapy to see if it dramatically increases life expectancy in a mouse model of the disease. Also in a mouse mode, NINDS-funded scientists are testing a combined treatment approach that uses a harmless virus to increase protein production, along with blood stem cell transplantation and small-molecule-based drugs, to reduce neuroinflammation, cell death, and nerve cell degeneration seen in Krabbe disease.
+Source: 0000139.xml

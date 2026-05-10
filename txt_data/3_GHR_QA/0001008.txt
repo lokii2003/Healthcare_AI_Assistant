@@ -1,0 +1,24 @@
+Topic: Unverricht-Lundborg disease
+Question: What is (are) Unverricht-Lundborg disease ?
+Answer: Unverricht-Lundborg disease is a rare inherited form of epilepsy. Affected individuals usually begin showing signs and symptoms of the disorder between the ages of 6 and 15.  Unverricht-Lundborg disease is classified as a type of progressive myoclonus epilepsy. People with this disorder experience episodes of involuntary muscle jerking or twitching (myoclonus) that increase in frequency and severity over time. Episodes of myoclonus may be brought on by physical exertion, stress, light, or other stimuli. Within 5 to 10 years, the myoclonic episodes may become severe enough to interfere with walking and other everyday activities.  Affected individuals also usually have seizures involving loss of consciousness, muscle rigidity, and convulsions (tonic-clonic or grand mal seizures). Like the myoclonic episodes, these may increase in frequency over several years but may be controlled with treatment. After several years of progression, the frequency of seizures may stabilize or decrease.  Eventually people with Unverricht-Lundborg disease may develop problems with balance and coordination (ataxia), involuntary rhythmic shaking that worsens during movement (intentional tremor), difficulty speaking (dysarthria), depression, and a slow, mild decline in intellectual functioning.  People with Unverricht-Lundborg disease typically live into adulthood. Depending on the severity of the condition and a person's response to treatment, life expectancy may be normal.
+Source: 0001008.xml
+
+Topic: Unverricht-Lundborg disease
+Question: How many people are affected by Unverricht-Lundborg disease ?
+Answer: Progressive myoclonus epilepsy is a rare condition. Unverricht-Lundborg disease is believed to be the most common cause of this type of epilepsy, but its worldwide prevalence is unknown. Unverricht-Lundborg disease occurs most frequently in Finland, where approximately 4 in 100,000 people are affected.
+Source: 0001008.xml
+
+Topic: Unverricht-Lundborg disease
+Question: What are the genetic changes related to Unverricht-Lundborg disease ?
+Answer: Mutations in the CSTB gene cause Unverricht-Lundborg disease. The CSTB gene provides instructions for making a protein called cystatin B. This protein reduces the activity of enzymes called cathepsins. Cathepsins help break down certain proteins in the lysosomes (compartments in the cell that digest and recycle materials). While the specific function of cystatin B is unclear, it may help protect the cells' proteins from cathepsins that leak out of the lysosomes.  In almost all affected individuals, Unverricht-Lundborg disease is caused by an increase in size of the CSTB gene. One region of the CSTB gene has a particular repeating sequence of 12 DNA building blocks (nucleotides). This sequence is normally repeated two or three times within the gene and is called a dodecamer repeat. Most people with this disorder have more than 30 repeats of the dodecamer sequence in both copies of the CSTB gene. A small number of people with Unverricht-Lundborg disease carry other mutations.  The increased number of dodecamer repeats in the CSTB gene seems to interfere with the production of the cystatin B protein. Levels of cystatin B in affected individuals are only 5 to 10 percent of normal, and cathepsin levels are significantly increased. These changes are believed to cause the signs and symptoms of Unverricht-Lundborg disease, but it is unclear how a reduction in the amount of cystatin B leads to the features of this disorder.
+Source: 0001008.xml
+
+Topic: Unverricht-Lundborg disease
+Question: Is Unverricht-Lundborg disease inherited ?
+Answer: This condition is inherited in an autosomal recessive pattern, which means both copies of the gene in each cell have mutations. The parents of an individual with an autosomal recessive condition each carry one copy of the mutated gene, but they typically do not show signs and symptoms of the condition.
+Source: 0001008.xml
+
+Topic: Unverricht-Lundborg disease
+Question: What are the treatments for Unverricht-Lundborg disease ?
+Answer: These resources address the diagnosis or management of Unverricht-Lundborg disease:  - Gene Review: Gene Review: Unverricht-Lundborg Disease  - Genetic Testing Registry: Unverricht-Lundborg syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0001008.xml

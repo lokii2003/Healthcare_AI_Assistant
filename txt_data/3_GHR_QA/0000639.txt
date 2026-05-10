@@ -1,0 +1,24 @@
+Topic: Meesmann corneal dystrophy
+Question: What is (are) Meesmann corneal dystrophy ?
+Answer: Meesmann corneal dystrophy is an eye disease that affects the cornea, which is the clear front covering of the eye. This condition is characterized by the formation of tiny round cysts in the outermost layer of the cornea, called the corneal epithelium. This part of the cornea acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.  In people with Meesmann corneal dystrophy, cysts can appear as early as the first year of life. They usually affect both eyes and increase in number over time. The cysts usually do not cause any symptoms until late adolescence or adulthood, when they start to break open (rupture) on the surface of the cornea and cause irritation. The resulting symptoms typically include increased sensitivity to light (photophobia), twitching of the eyelids (blepharospasm), increased tear production, the sensation of having a foreign object in the eye, and an inability to tolerate wearing contact lenses. Some affected individuals also have temporary episodes of blurred vision.
+Source: 0000639.xml
+
+Topic: Meesmann corneal dystrophy
+Question: How many people are affected by Meesmann corneal dystrophy ?
+Answer: Meesmann corneal dystrophy is a rare disorder whose prevalence is unknown. It was first described in a large, multi-generational German family with more than 100 affected members. Since then, the condition has been reported in individuals and families worldwide.
+Source: 0000639.xml
+
+Topic: Meesmann corneal dystrophy
+Question: What are the genetic changes related to Meesmann corneal dystrophy ?
+Answer: Meesmann corneal dystrophy can result from mutations in either the KRT12 gene or the KRT3 gene. These genes provide instructions for making proteins called keratin 12 and keratin 3, which are found in the corneal epithelium. The two proteins interact to form the structural framework of this layer of the cornea. Mutations in either the KRT12 or KRT3 gene weaken this framework, causing the corneal epithelium to become fragile and to develop the cysts that characterize the disorder. The cysts likely contain clumps of abnormal keratin proteins and other cellular debris. When the cysts rupture, they cause eye irritation and the other symptoms of Meesmann corneal dystrophy.
+Source: 0000639.xml
+
+Topic: Meesmann corneal dystrophy
+Question: Is Meesmann corneal dystrophy inherited ?
+Answer: This condition is inherited in an autosomal dominant pattern, which means one copy of an altered KRT12 or KRT3 gene in each cell is sufficient to cause the disorder. In most cases, an affected person inherits the condition from an affected parent.
+Source: 0000639.xml
+
+Topic: Meesmann corneal dystrophy
+Question: What are the treatments for Meesmann corneal dystrophy ?
+Answer: These resources address the diagnosis or management of Meesmann corneal dystrophy:  - Genetic Testing Registry: Meesman's corneal dystrophy  - Merck Manual Home Health Handbook: Tests for Eye Disorders: The Eye Examination   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0000639.xml

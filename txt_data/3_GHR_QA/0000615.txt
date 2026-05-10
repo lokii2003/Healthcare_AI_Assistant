@@ -1,0 +1,24 @@
+Topic: Maffucci syndrome
+Question: What is (are) Maffucci syndrome ?
+Answer: Maffucci syndrome is a disorder that primarily affects the bones and skin. It is characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.  The signs and symptoms of Maffucci syndrome may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the ends of bones, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Maffucci syndrome, people with this disorder generally have short stature and underdeveloped muscles.  Maffucci syndrome is distinguished from a similar disorder that involves enchondromas (Ollier disease) by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas). In addition to hemangiomas, individuals with Maffucci syndrome occasionally also have lymphangiomas, which are masses made up of the thin tubes that carry lymph fluid (lymphatic vessels). These growths may appear anywhere on the body.  Although the enchondromas associated with Maffucci syndrome start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Maffucci syndrome also have an increased risk of other cancers, such as ovarian or liver cancer.  People with Maffucci syndrome usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.
+Source: 0000615.xml
+
+Topic: Maffucci syndrome
+Question: How many people are affected by Maffucci syndrome ?
+Answer: Maffucci syndrome is very rare. Since it was first described in 1881, fewer than 200 cases have been reported worldwide.
+Source: 0000615.xml
+
+Topic: Maffucci syndrome
+Question: What are the genetic changes related to Maffucci syndrome ?
+Answer: In most people with Maffucci syndrome, the disorder is caused by mutations in the IDH1 or IDH2 gene. These genes provide instructions for making enzymes called isocitrate dehydrogenase 1 and isocitrate dehydrogenase 2, respectively. These enzymes convert a compound called isocitrate to another compound called 2-ketoglutarate. This reaction also produces a molecule called NADPH, which is necessary for many cellular processes. IDH1 or IDH2 gene mutations cause the enzyme produced from the respective gene to take on a new, abnormal function. Although these mutations have been found in some cells of enchondromas and hemangiomas in people with Maffucci syndrome, the relationship between the mutations and the signs and symptoms of the disorder is not well understood.  Mutations in other genes may also account for some cases of Maffucci syndrome.
+Source: 0000615.xml
+
+Topic: Maffucci syndrome
+Question: Is Maffucci syndrome inherited ?
+Answer: Maffucci syndrome is not inherited. The mutations that cause this disorder are somatic, which means they occur during a person's lifetime. A somatic mutation occurs in a single cell. As that cell continues to grow and divide, the cells derived from it also have the same mutation. In Maffucci syndrome, the mutation is thought to occur in a cell during early development before birth; cells that arise from that abnormal cell have the mutation, while the body's other cells do not. This situation is called mosaicism.
+Source: 0000615.xml
+
+Topic: Maffucci syndrome
+Question: What are the treatments for Maffucci syndrome ?
+Answer: These resources address the diagnosis or management of Maffucci syndrome:  - Genetic Testing Registry: Maffucci syndrome   These resources from MedlinePlus offer information about the diagnosis and management of various health conditions:  - Diagnostic Tests  - Drug Therapy  - Surgery and Rehabilitation  - Genetic Counseling   - Palliative Care
+Source: 0000615.xml
