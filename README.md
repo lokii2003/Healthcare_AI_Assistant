@@ -25,7 +25,7 @@ A **conversational AI healthcare assistant** that answers medical questions usin
 
 ## 🔗 Source Code
 
-- **GitHub Repository**: [Add your repository link here]
+- **GitHub Repository**: [GitHub Link](https://github.com/lokii2003/Healthcare_AI_Assistant.git)
 - **Google Derive Source Code**: Available upon request
 
 ---
@@ -285,4 +285,7 @@ Health_agent/
 
 **Lokesh Kumawat** — Mindbowser Hackathon 2025
 
+
+=======
+# Healthcare_AI_Assistant
 
